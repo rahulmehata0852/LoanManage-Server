@@ -38,36 +38,5 @@
     }
   ],
   "customers": [],
-  "requests": [
-    {
-      "name": "akhil",
-      "email": "akhil123@gmail.com",
-      "password": "123",
-      "mobile": "98888888888",
-      "Amout_of_Loan": "100000",
-      "interst_percentage": "2.00",
-      "Month_duration_of_loan": "11",
-      "totalAmount": 106416.66666666667,
-      "totalInterest": 6416.666666666666,
-      "date": "10/11/2023",
-      "userId": 4,
-      "status": "succeed",
-      "id": 1
-    },
-    {
-      "name": "akhil",
-      "email": "akhil123@gmail.com",
-      "password": "123",
-      "mobile": "98888888888",
-      "Amout_of_Loan": "9997",
-      "interst_percentage": "2.00",
-      "Month_duration_of_loan": "8",
-      "totalAmount": 10363.556666666667,
-      "totalInterest": 366.5566666666666,
-      "date": "10/11/2023",
-      "userId": 4,
-      "status": "succeed",
-      "id": 2
-    }
-  ]
+  "requests": []
 }
