@@ -37,68 +37,7 @@
       "id": 3
     }
   ],
-  "customers": [
-    {
-      "name": "sachin bedke",
-      "email": "sachin123@gmail.com",
-      "password": "123",
-      "mobile": "8987891090",
-      "Amout_of_Loan": "10000",
-      "interst_percentage": "2.00",
-      "Month_duration_of_loan": "7",
-      "totalAmount": 10291.666666666666,
-      "totalInterest": 291.6666666666667,
-      "date": "2023-10-10",
-      "by": "Admin",
-      "id": 1
-    },
-    {
-      "name": "fake akshay",
-      "email": "fakhsay123@gmail.com",
-      "password": "123",
-      "mobile": "8998767899",
-      "Amout_of_Loan": "90000",
-      "interst_percentage": "2.5",
-      "Month_duration_of_loan": "9",
-      "totalAmount": 94387.5,
-      "totalInterest": 4387.5,
-      "date": "2023-10-11",
-      "by": "employee",
-      "employeeId": 1,
-      "id": 2
-    },
-    {
-      "name": "f_vikas_kumar",
-      "email": "fvikas123@gmail.com",
-      "password": "123",
-      "mobile": "9888767670",
-      "Amout_of_Loan": "10000",
-      "interst_percentage": "1.00",
-      "Month_duration_of_loan": "9",
-      "totalAmount": 10375,
-      "totalInterest": 375,
-      "date": "2023-10-12",
-      "by": "employee",
-      "employeeId": 2,
-      "id": 3
-    },
-    {
-      "name": "akhil",
-      "mobile": "98888888888",
-      "email": "akhil123@gmail.com",
-      "password": "123",
-      "id": 4,
-      "Amout_of_Loan": "100000",
-      "interst_percentage": "2.00",
-      "Month_duration_of_loan": "11",
-      "totalAmount": 106416.66666666667,
-      "totalInterest": 6416.666666666666,
-      "date": "2023-10-10",
-      "userId": 4,
-      "status": "pending",
-      "by": "Admin"
-    }
-  ],
+  "customers": [],
   "requests": [
     {
       "name": "akhil",
