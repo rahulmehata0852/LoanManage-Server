@@ -37,6 +37,72 @@
       "id": 3
     }
   ],
-  "customers": [],
-  "requests": []
+  "customers": [
+    {
+      "name": "shubham",
+      "email": "shubham123@gmail.com",
+      "password": "123",
+      "mobile": "8777879089",
+      "Amout_of_Loan": "10000",
+      "interst_percentage": "2.5",
+      "Month_duration_of_loan": "10",
+      "totalAmount": 10584,
+      "totalInterest": 584,
+      "date": "2023-10-12",
+      "EMI": 1059,
+      "by": "Admin",
+      "id": 1,
+      "userId": 1,
+      "installMent": 10
+    },
+    {
+      "name": "Samadhan",
+      "email": "sama123@gmail.com",
+      "password": "123",
+      "mobile": "98776536632",
+      "Amout_of_Loan": "100000",
+      "interst_percentage": "2.00",
+      "Month_duration_of_loan": "10",
+      "totalAmount": 105417,
+      "totalInterest": 5417,
+      "date": "2023-10-12",
+      "EMI": 10542,
+      "by": "Admin",
+      "id": 2,
+      "installMent": 9,
+      "userId": 2
+    }
+  ],
+  "requests": [
+    {
+      "name": "john",
+      "email": "rahulmahato0852@gmail.com",
+      "password": "123",
+      "mobile": "2214344339",
+      "Amout_of_Loan": "100000",
+      "interst_percentage": "2.5",
+      "Month_duration_of_loan": "10",
+      "totalAmount": 105833.33333333333,
+      "totalInterest": 5833.333333333334,
+      "date": "10/12/2023",
+      "userId": 2,
+      "status": "rejected",
+      "id": 1
+    },
+    {
+      "name": "john",
+      "email": "john@email.com",
+      "password": "213",
+      "mobile": "192992838",
+      "Amout_of_Loan": "10000",
+      "interst_percentage": "1.00",
+      "Month_duration_of_loan": "12",
+      "totalAmount": 10650,
+      "totalInterest": 650,
+      "date": "10/12/2023",
+      "userId": 1,
+      "status": "rejected",
+      "id": 2
+    }
+  ]
 }
